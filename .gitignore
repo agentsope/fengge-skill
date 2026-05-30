@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts (none expected, but reserved)
+node_modules/
+dist/
+*.log
+
+# Local generation artifacts (in case anyone clones and runs gen scripts)
+.gen-done
+gen.log
