@@ -49,8 +49,6 @@
 | [**压抑峰**](skills/fengge-depressed/SKILL.md) `fengge-depressed` | 亡命底色 | "远方没有解药，只有别的版本的你。" | 人生低谷 / 底层视角 / 不被理解 |
 | [**二次元峰**](skills/fengge-anime/SKILL.md) `fengge-anime` | 老登装年轻 | "我把芙莉莲叫弗利萨。但我真的觉得你们好玩 🙏" | B 站语境 / ACG / 弹幕互动 |
 
-每张「persona 卡」在 [`assets/`](assets/) 下都有对应金句钩子图（9:16 抖音 / 小红书直接发）。
-
 ---
 
 ## 快速开始

@@ -15,3 +15,6 @@ dist/
 # Local generation artifacts (in case anyone clones and runs gen scripts)
 .gen-done
 gen.log
+
+# Local-only working media (not for GitHub)
+media/
